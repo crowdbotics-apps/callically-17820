@@ -1,0 +1,13 @@
+1.The position of a particle at time y ≥ 0, in seconds,x = t3 – 12t2 + 45t – 1  is given by and y =t3 – 15t2 + 63t + 5. At what values of t is the particle at rest?|(A) t = 3, 5   (B) t = 3   (C) t = 3, 5, 7   (D)t = 5, 7 |B|Derivative-Position,velocity,and acceleration|0
+2.The monthly costs that a certain company incurs can be modeled by C(t)=3000/(1+e^(-0.2t)) , where t is measured in months. What is the total cost incurred by the company in months 12 ≤ t ≤ 24, to the nearest dollar?|(A) $32,105   (B) $34,820   (C) $35,271   (D) $36,529|B|Integration|0
+3.Use Euler’s Method with h = 0.25 to estimate y(1) if y ‘ = 3y – 1 and y(0) = 1.|(A) 5.873   (B) 6.013   (C) 6.586   (D) 7.312 |C|Linear Approximation |0
+
+
+
+
+
+
+
+
+
+
